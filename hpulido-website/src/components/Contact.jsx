@@ -34,7 +34,7 @@ const Contact = () => {
             <RiMessengerLine className='contact__option-icon'/>
             <h4>Messenger</h4>
             <h5>egatortutorials</h5>
-            <a href="https://m.me/ernest.achiever" target="_blank">Send a message</a>
+            <a href="https://m.me/ernest.achiever" target="_blank" rel="noreferrer">Send a message</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icon'/>
